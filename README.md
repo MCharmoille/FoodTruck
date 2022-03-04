@@ -1,3 +1,5 @@
 # FoodTruck
 
-https://appdividend.com/2017/08/04/vuejs-nodejs-tutorial/
+https://www.bezkoder.com/serve-vue-app-express/
+
+https://www.bezkoder.com/vue-js-node-js-express-mysql-crud-example/
